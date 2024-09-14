@@ -1,4 +1,6 @@
-# FTPComplEx
+# FTPComplEx: A Flexible Time Perspective Approach to Temporal Knowledge Graph Completion
+
+The paper is currently under review by the journal, where it is being carefully evaluated by reviewers for its contributions, methodology, and overall quality. We are awaiting feedback and comments to further refine and improve the model based on their insights.
 
 ## Installation
 Create a conda environment with pytorch and scikit-learn :
